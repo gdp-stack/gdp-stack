@@ -12,6 +12,7 @@
 <a href="https://linkedin.com/in/g-de-place" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g-de-place" height="30" width="40" /></a>
 
 <h3 align="left">Personnal projects:</h3>
+
 - <a href="https://github.com/O-clock-Mimir/S11-Parcours-oshop-gdp-stack" target="blank">O'shop project -- à migrer dans mon dépot perso</a>: Développement d’une plateforme de jeux javascript
 
 - <a href="https://github.com/O-clock-Mimir/S06E02-Atelier-GameCenter-josuexrocha" target="blank">GameCenter project -- à migrer dans mon dépot perso</a> : Projet 
