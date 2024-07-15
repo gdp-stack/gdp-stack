@@ -19,6 +19,8 @@
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a>
+
 
 - <a href="https://github.com/O-clock-Mimir/S06E02-Atelier-GameCenter-josuexrocha" target="blank">GameCenter project -- à migrer dans mon dépot perso</a> : Développement d'une plateforme de jeux JavaScript
 
