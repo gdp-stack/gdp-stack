@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Guillaume de Place <a href="https://linkedin.com/in/g-de-place" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g-de-place" height="30" width="40" /></a>
 </h1>
 
-<h3 align="center">After a degree in financial engineering and a few years' professional experience, I decided to change careers and move into development.</h3>
-\\
+<h3 align="center">After a degree in financial engineering and a few years' professional experience, I decided to change careers and move into development.</h3>\\
+
 - 🔭 I’m currently **finishing my training as an Application Designer and Developer at <a href="https://oclock.io/" target="blank">O'Clock</a> school**
 
 - 🌱 I’m mainly learning **Node, React, Docker, Python**
 
-- 📫 How to reach me **guillaume.deplace@gmail.com**
-\\\
+- 📫 How to reach me **guillaume.deplace@gmail.com**\\\
+
 <h3 align="left">Personnal projects:</h3>
 
 - <a href="https://github.com/O-clock-Mimir/S11-Parcours-oshop-gdp-stack" target="blank">O'shop project -- à migrer dans mon dépot perso</a>: Développement d’une plateforme de jeux javascript
