@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Guillaume de Place <a href="https://linkedin.com/in/g-de-place" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g-de-place" height="30" width="40" /></a>
 </h1>
 
-<h3 align="center">A financial engineer by training, I decided to change careers and move into development.</h3>
+<h3 align="center">After a degree in financial engineering and a few years' professional experience, I decided to change careers and move into development.</h3>
+
 
 - 🔭 I’m currently working on **completing my training as an Application Designer and Developer at <a href="https://oclock.io/" target="blank">O'Clock</a> school**
 
-- 🌱 I’m currently learning mainly **Node, React, Docker**
+- 🌱 I’m currently learning mainly **Node, React, Docker, Python**
 
 - 📫 How to reach me **guillaume.deplace@gmail.com**
+
 
 <h3 align="left">Personnal projects:</h3>
 
@@ -26,6 +28,7 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
  
+
 
 <h3 align="left">Languages and Tools:</h3>
 
