@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guillaume de Place</h1>
 <h3 align="center">Former financier, passionate by fullstack developpement, on the road to professional reconversion</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gdp-stack&label=Profile%20views&color=0e75b6&style=flat" alt="gdp-stack" /> </p>
+- 🔭 I’m currently working on **completing my training as an Application Designer and Developer with <a href="[https://oclock.io/]" target="blank">O'Clock</a> school**
 
-- 🔭 I’m currently working on **completing my training as an application designer and developer**
-
-- 🌱 I’m currently learning **Node, React, Docker**
+- 🌱 I’m currently learning mainly **Node, React, Docker**
 
 - 📫 How to reach me **guillaume.deplace@gmail.com**
 
