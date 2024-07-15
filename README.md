@@ -2,15 +2,13 @@
 </h1>
 
 <h3 align="center">After a degree in financial engineering and a few years' professional experience, I decided to change careers and move into development.</h3>
+\\
+- 🔭 I’m currently **finishing my training as an Application Designer and Developer at <a href="https://oclock.io/" target="blank">O'Clock</a> school**
 
-
-- 🔭 I’m currently working on **completing my training as an Application Designer and Developer at <a href="https://oclock.io/" target="blank">O'Clock</a> school**
-
-- 🌱 I’m currently learning mainly **Node, React, Docker, Python**
+- 🌱 I’m mainly learning **Node, React, Docker, Python**
 
 - 📫 How to reach me **guillaume.deplace@gmail.com**
-
-
+\\\
 <h3 align="left">Personnal projects:</h3>
 
 - <a href="https://github.com/O-clock-Mimir/S11-Parcours-oshop-gdp-stack" target="blank">O'shop project -- à migrer dans mon dépot perso</a>: Développement d’une plateforme de jeux javascript
@@ -27,9 +25,8 @@
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
- 
 
-
+\\\
 <h3 align="left">Languages and Tools:</h3>
 
 **Languages**
