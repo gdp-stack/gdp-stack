@@ -16,7 +16,7 @@
 <h3 align="left">Personnal projects:</h3>
 <dl>
    
-<dt><a href="https://github.com/O-clock-Mimir/S11-Parcours-oshop-gdp-stack" target="blank">O'Coffee project -- à migrer dans mon dépot perso</a>: Développement d’un site vitrine responsive avec une interface</dt>
+- <dt><a href="https://github.com/O-clock-Mimir/S11-Parcours-oshop-gdp-stack" target="blank">O'Coffee project -- à migrer dans mon dépot perso</a>: Développement d’un site vitrine responsive avec une interface</dt>
 
 <dd><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
@@ -25,7 +25,7 @@
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a>
 </dd>
 
-<dt><a href="https://github.com/O-clock-Mimir/S11-Parcours-oshop-gdp-stack" target="blank">O'quiz project --part1-- à migrer dans mon dépot perso</a> <a href="https://github.com/O-clock-Mimir/S11-Parcours-oshop-gdp-stack" target="blank">--part2-- à migrer egalempent </a>: Développement d’une plateforme de quiz éducative</dt>
+- <dt><a href="https://github.com/O-clock-Mimir/S11-Parcours-oshop-gdp-stack" target="blank">O'quiz project --part1-- à migrer dans mon dépot perso</a> <a href="https://github.com/O-clock-Mimir/S11-Parcours-oshop-gdp-stack" target="blank">--part2-- à migrer egalempent </a>: Développement d’une plateforme de quiz éducative</dt>
 
 <dd><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
@@ -34,7 +34,7 @@
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a>
 </dd>
 
-<dt><a href="https://github.com/O-clock-Mimir/S11-Parcours-oshop-gdp-stack" target="blank">O'shop project -- à migrer dans mon dépot perso</a>: ?????</dt>
+- <dt><a href="https://github.com/O-clock-Mimir/S11-Parcours-oshop-gdp-stack" target="blank">O'shop project -- à migrer dans mon dépot perso</a>: ?????</dt>
 
 <dd><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
@@ -43,13 +43,13 @@
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a>
 </dd>
 
-<dt><a href="https://github.com/O-clock-Mimir/S11-Parcours-oshop-gdp-stack" target="blank">O'fig project -- à migrer dans mon dépot perso</a>: ?????</dt>
+- <dt><a href="https://github.com/O-clock-Mimir/S11-Parcours-oshop-gdp-stack" target="blank">O'fig project -- à migrer dans mon dépot perso</a>: ?????</dt>
 
 <dd>datamapper, sql, node, ejs   (catalogue produits, panier, commentaires, notation)
 design pattern active record.
 </dd>
 
-<dt><a href="https://github.com/O-clock-Mimir/S06E02-Atelier-GameCenter-josuexrocha" target="blank">GameCenter project -- à migrer dans mon dépot perso</a>: Development of a JavaScript gaming platform</dt>
+- <dt><a href="https://github.com/O-clock-Mimir/S06E02-Atelier-GameCenter-josuexrocha" target="blank">GameCenter project -- à migrer dans mon dépot perso</a>: Development of a JavaScript gaming platform</dt>
 
 <dd><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
@@ -57,7 +57,7 @@ design pattern active record.
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a>
 </dd>
 
-<dt><a href="https://github.com/gdp-stack/Devin/tree/main" target="blank">Devin project</a>: Development of a game where you have to guess the secret word</dt>
+- <dt><a href="https://github.com/gdp-stack/Devin/tree/main" target="blank">Devin project</a>: Development of a game where you have to guess the secret word</dt>
 
 <dd><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -65,12 +65,12 @@ design pattern active record.
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </dd>
 
-<dt><a href="https://github.com/gdp-stack/SpaceType---V3" target="blank">SpaceType</a>: Development of a game to test writing speed</dt>
+- <dt><a href="https://github.com/gdp-stack/SpaceType---V3" target="blank">SpaceType</a>: Development of a game to test writing speed</dt>
 
 <dd><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></dd>
 
 
-<dt><a href="https://github.com/gdp-stack/Site-perso" target="blank">Personal website</a>: Development of a portfolio site using Bootstrap</dt>
+- <dt><a href="https://github.com/gdp-stack/Site-perso" target="blank">Personal website</a>: Development of a portfolio site using Bootstrap</dt>
 
 <dd><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </dd>
