@@ -32,7 +32,7 @@
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a>
 
 
-<a href="https://github.com/gdp-stack/Devin/tree/main" target="blank">Devin project/a>: Development of a game where you have to guess the secret word
+<a href="https://github.com/gdp-stack/Devin/tree/main" target="blank">Devin project</a>: Development of a game where you have to guess the secret word
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
