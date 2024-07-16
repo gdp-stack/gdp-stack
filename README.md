@@ -44,7 +44,7 @@
 </dd>
 <dd><h6>User stories, MCD, MLD, Wireframes, POO, MVC Architecture</h6></dd>
 
-- <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Oshop" target="blank">O'shop project:</a></dt> ?????
+- <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Oshop" target="blank">O'shop project:</a></dt> Development of a responsive showcase site with an interface
 
 <dd><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
