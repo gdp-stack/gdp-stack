@@ -23,17 +23,16 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize" width="40" height="40"/> </a>
 </dd>
-<dd><h6>User stories, MCD, MLD, Wireframes, POO, MVC Architecture</h6></dd>
+<dd><h6>User stories, MCD, MLD, Wireframes, POO, MVC Architecture, ORM, CRUD functionalities</h6></dd>
    
 - <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Ocoffee" target="blank">O'Coffee project</a></dt> Development of a responsive showcase site with an interface
 
 <dd><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize" width="40" height="40"/> </a>
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a>
 </dd>
-<dd><h6>Authentification, Admin CRUD pages, Card, Contact, Leaflet map</h6></dd>
+<dd><h6>Login/Register, Session management, Admin CRUD pages, Card, Contact, Leaflet map, CRUD functionalities</h6></dd>
 
 - <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Oquiz" target="blank">O'quiz project: </a></dt> Development of an educational quiz platform
 
@@ -43,7 +42,7 @@
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize" width="40" height="40"/> </a>
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a>
 </dd>
-<dd><h6>POO, MVC Architecture</h6></dd>
+<dd><h6>User stories, MCD, MLD, Wireframes, POO, MVC Architecture</h6></dd>
 
 - <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Oshop" target="blank">O'shop project:</a></dt> ?????
 
@@ -53,15 +52,7 @@
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize" width="40" height="40"/> </a>
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a>
 </dd>
-<dd><h6>Password hashing, POO, MVC Architecture</h6></dd>
-
-- <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Ofig" target="blank">O'fig project:</a></dt> ?????
-
-<dd>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-</dd>
+<dd><h6>Login/Register, Session management, Password hashing, POO, MVC Architecture</h6></dd>
 
 - <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/GameCenter" target="blank">GameCenter project:</a></dt> Development of a JavaScript gaming platform
 
