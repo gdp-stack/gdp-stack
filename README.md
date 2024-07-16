@@ -23,7 +23,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize" width="40" height="40"/> </a>
 </dd>
-<dd>User stories, MCD, MLD, Wireframes </dd>
+<dd>User stories, MCD, MLD, Wireframes, POO, MVC Architecture </dd>
    
 - <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Ocoffee" target="blank">O'Coffee project</a></dt> Development of a responsive showcase site with an interface
 
@@ -33,7 +33,7 @@
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize" width="40" height="40"/> </a>
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a>
 </dd>
-<dd>Authentification, password hash, </dd>
+<dd>Authentification, Admin CRUD pages, Card, Contact, Leaflet map</dd>
 
 - <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Oquiz" target="blank">O'quiz project: </a></dt> Development of an educational quiz platform
 
@@ -43,6 +43,7 @@
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize" width="40" height="40"/> </a>
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a>
 </dd>
+<dd>POO, MVC Architecture</dd>
 
 - <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Oshop" target="blank">O'shop project:</a></dt> ?????
 
@@ -52,6 +53,7 @@
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize" width="40" height="40"/> </a>
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a>
 </dd>
+<dd>Password hashing, POO, MVC Architecture </dd>
 
 - <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Ofig" target="blank">O'fig project:</a></dt> ?????
 
@@ -68,6 +70,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a>
 </dd>
+<dd>CSS grid box, flex box, keyframes, nesting, DOM JS Manipulation</dd>
 
 - <dt><a href="https://github.com/gdp-stack/Devin/tree/main" target="blank">Devin project:</a></dt> Development of a game where you have to guess the secret word
 
@@ -80,6 +83,7 @@
 - <dt><a href="https://github.com/gdp-stack/SpaceType---V3" target="blank">SpaceType:</a></dt> Development of a game to test writing speed
 
 <dd><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></dd>
+<dd>DOM JS Manipulation</dd>
 
 
 - <dt><a href="https://github.com/gdp-stack/Site-perso" target="blank">Personal website:</a></dt> Development of a portfolio site using Bootstrap
