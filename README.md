@@ -16,8 +16,26 @@
   
 <h3 align="left">Personnal projects:</h3>
 <dl>
+
+- <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Okanban" target="blank">O'Kanban project</a></dt> Development of a Kanban project management web app
+<dd><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize" width="40" height="40"/> </a>
+</dd>
+<dd>User stories, MCD, MLD, Wireframes </dd>
    
-- <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Ocoffee" target="blank">O'Coffee project</a></dt> Développement d’un site vitrine responsive avec une interface
+- <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Ocoffee" target="blank">O'Coffee project</a></dt> Development of a responsive showcase site with an interface
+
+<dd><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize" width="40" height="40"/> </a>
+<a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a>
+</dd>
+<dd>Authentification, password hash, </dd>
+
+- <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Oquiz" target="blank">O'quiz project: </a></dt> Development of an educational quiz platform
 
 <dd><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
@@ -26,7 +44,7 @@
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a>
 </dd>
 
-- <dt><a href="https://github.com/O-clock-Mimir/S11-Parcours-oshop-gdp-stack" target="blank">O'quiz project --part1-- à migrer dans mon dépot perso</a> <a href="https://github.com/O-clock-Mimir/S11-Parcours-oshop-gdp-stack" target="blank">--part2-- à migrer egalempent: </a></dt> Développement d’une plateforme de quiz éducative
+- <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Oshop" target="blank">O'shop project:</a></dt> ?????
 
 <dd><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
@@ -35,16 +53,7 @@
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a>
 </dd>
 
-- <dt><a href="https://github.com/O-clock-Mimir/S11-Parcours-oshop-gdp-stack" target="blank">O'shop project -- à migrer dans mon dépot perso:</a></dt> ?????
-
-<dd><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize" width="40" height="40"/> </a>
-<a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a>
-</dd>
-
-- <dt><a href="https://github.com/O-clock-Mimir/S11-Parcours-oshop-gdp-stack" target="blank">O'fig project -- à migrer dans mon dépot perso:</a></dt> ?????
+- <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Ofig" target="blank">O'fig project:</a></dt> ?????
 
 <dd>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -52,7 +61,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </dd>
 
-- <dt><a href="https://github.com/O-clock-Mimir/S06E02-Atelier-GameCenter-josuexrocha" target="blank">GameCenter project -- à migrer dans mon dépot perso:</a></dt> Development of a JavaScript gaming platform
+- <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/GameCenter" target="blank">GameCenter project:</a></dt> Development of a JavaScript gaming platform
 
 <dd><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
