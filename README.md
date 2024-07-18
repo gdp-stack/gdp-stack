@@ -17,7 +17,7 @@
 <h3 align="left">Personnal projects:</h3>
 <dl>
 
-- <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Okanban" target="blank">O'Kanban project</a></dt> Development of a Kanban project management web app (in progress - (upcoming changes: Server data under API format - Front data recovering )
+- <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Okanban" target="blank">O'Kanban project</a></dt> Development of a Kanban project management web app (in progress --- upcoming changes: Server data outputs under API format & Data recovering from Frontend )
 <dd>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
