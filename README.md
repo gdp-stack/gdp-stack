@@ -25,7 +25,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize" width="40" height="40"/> </a>
 </dd>
-<dd><h6>User stories, MCD, MLD, Wireframes, POO, MVC Architecture, ORM, CRUD functionalities, Git workflow</h6></dd>
+<dd><h6>User stories, MCD, MLD, Wireframes, POO, MVC Architecture, ORM, CRUD functionalities, API Restful, Git workflow</h6></dd>
    
 - <dt><a href="https://github.com/gdp-stack/Oclock-projects/tree/master/Ocoffee" target="blank">O'Coffee project</a></dt> Development of a responsive showcase site with an interface
 
