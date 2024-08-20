@@ -1,10 +1,10 @@
-# 👋 Bonjour, je suis Guillaume de Place
+# 👋 Hello, I am Guillaume de Place
 
 After a degree in financial engineering and a few years' professional experience, I decided to change careers and move into development.
 
 ---
 
-## 🌟 Qui suis-je ?
+## 🌟 Qui I am ?
 
 - 🔭 I’m currently **finishing my training as an Application Designer and Developer at <a href="https://oclock.io/" target="blank">O'Clock</a> school**
 - 🌱 I’m mainly learning **Node, React, Docker, Python**
@@ -87,6 +87,5 @@ After a degree in financial engineering and a few years' professional experience
 
 ## 📫 Contact
 
-- LinkedIn: [TonNom](https://www.linkedin.com/in/ton-nom)
-- Email: [ton.email@example.com](mailto:ton.email@example.com)
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-de-place/)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guillaume.deplace@gmail.com)
