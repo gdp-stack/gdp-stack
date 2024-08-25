@@ -7,8 +7,8 @@ After a degree in financial engineering and a few years' professional experience
 ## 🌟 Who I am ?
 
 - 🔭 I’m currently **training to become an Application Designer and Developer** at <a href="https://oclock.io/" target="blank">O'Clock</a> school, until **March, 2025**
-- 🌱 I’m mainly learning **Node, React, TypeScript, Docker, Python**
-- 💬 I'm looking for an **internship in fullstack or backend development** from **December, 2024**
+- 🌱 I’m mainly learning **Node, React, TypeScript, Docker and Python**
+- 💬 I'm looking for an **internship/job in fullstack or backend development** from **December, 2024**
 
 ---
 
