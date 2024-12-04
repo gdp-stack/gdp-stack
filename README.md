@@ -7,8 +7,10 @@ After a degree in financial engineering and a few years' professional experience
 ## 🌟 Who I am ?
 
 - 🔭 I’m currently **training to become an Application Designer and Developer** at <a href="https://oclock.io/" target="blank">O'Clock</a> school, until **March, 2025**
-- 🌱 I’m mainly learning **Node, React, TypeScript, Docker and Python**
-- 💬 I'm looking for an **internship/job in fullstack or backend development** from **December, 2024**
+- 🌟 I'm passionate about working on **innovative projects** in the **technology industry** and beyond, designing and creating web and mobile applications in various sectors. **I'm open to your projects and ready to collaborate!**   
+- 💼 My technical skills are **backend development** with **Node.js**, **frontend design** with **React** and **TypeScript**, **containerization** with **Docker**, **database design** (SQL/NoSQL), **version control** with **Git**
+- 📚 My general skills **design strategies** (SWOT), **UX/UI**, **writing specifications**, **user stories**, **data modeling (UML, ERD, MCD)**, **project management**, **architecture choices**, **DevOps** best practices, **CI/CD**, **automated testing**, **security** best practices (authentication, authorization, data protection), **technical documentation** and **agile methodologies** (Scrum, Kanban)
+- 💼 I have a strong knowledge in **finance and consulting**, including **accounting**, **audit**, **financial control**, **management**, **project management**, and **trading**, with cross-functional skills **analysis** and **problem-solving**.  - 
 
 ---
 
